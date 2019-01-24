@@ -11,7 +11,7 @@
 5. 
 
 6. 
-      ´´´ javascript
+      ```javascript
       var savingsAccount = {
     balance: 1000,
     interestRatePercent: 1,
@@ -31,8 +31,8 @@
         return "Welcome! \n Your balance is currently $" + savingsAccount.balance + " and your interest rate is " + savingsAccount.interestRatePercent+ "%"
     }
     
-};
-´´´
+      };
+      ```
 7. 
 
 8. 
