@@ -1,7 +1,15 @@
 # verk2_Javascript
 
 1. 
-
+   ```javascript
+   let eg = {
+   nafn: "Brynjar"   
+   kt: 2110012590   
+   heimilisf: "Kvistavellir8"   
+   heimas: 5812345   
+   gsm: [7654321, 6942069]      
+   };
+   ```
 2. 
 
 3. 
