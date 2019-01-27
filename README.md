@@ -23,7 +23,14 @@
    ```
 
 3. 
-
+   ```javascript
+   uppl.adferd = function(){
+   return "Ég heiti " + uppl.nafn +" og ég er 17 ára"      
+   };
+   
+   
+   uppl.adferd()
+   ```
 4. 
    ```javascript
    console.log(family.parents.fathers[1]["name"]);
