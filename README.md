@@ -70,8 +70,8 @@
   
     ["glazed", "sprinkled"]
 
-8. 
+8. Nei, þýðandinn á það til að endurraða í properti'onum
 
-9. 
+9. admin vísar í objectið user en copy'ar það ekki, gildið hjá admin er bara 'heimilisáfangið' hjá user.
 
-10. 
+10. Þessi kóði virkar vegna þess að ekki er hægt að breyta const breytu, en það er hægt að breyta const object.
