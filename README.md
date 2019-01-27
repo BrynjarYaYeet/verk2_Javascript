@@ -68,7 +68,7 @@
 7. Átti ég bara að svara spurningunni hér?
 
   
-["glazed", "sprinkled"]
+    ["glazed", "sprinkled"]
 
 8. 
 
