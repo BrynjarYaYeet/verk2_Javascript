@@ -36,7 +36,12 @@
    console.log(family.parents.fathers[1]["name"]);
    ```
 5. 
-
+   ```javascript
+   var prices = [1.23, 48.11, 90.11, 8.50, 9.99, 1.00, 1.10, 67.00];
+   prices[0]=2.56;
+   prices[2]=2.90;
+   prices[6]=6.8;
+   ```
 6. 
       ```javascript
       var savingsAccount = {
