@@ -13,13 +13,13 @@
 2. 
    ```javascript
    for (let abc in uppl) {
-console.log(abc)
-}
+   console.log(abc)
+   }
    ```
    ```javascript
    for (let abc in uppl) {
-console.log(uppl[abc])
-}
+   console.log(uppl[abc])
+   }
    ```
 
 3. 
