@@ -11,6 +11,16 @@
    };
    ```
 2. 
+   ```javascript
+   for (let abc in uppl) {
+console.log(abc)
+}
+   ```
+   ```javascript
+   for (let abc in uppl) {
+console.log(uppl[abc])
+}
+   ```
 
 3. 
 
