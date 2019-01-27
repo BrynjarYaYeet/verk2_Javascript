@@ -65,7 +65,10 @@
     
       };
       ```
-7. 
+7. Átti ég bara að svara spurningunni hér?
+
+  
+["glazed", "sprinkled"]
 
 8. 
 
